@@ -1,0 +1,1 @@
+aplicacion realizada en flet python que analiza un captura de pantalla que tomes de tu correo y dice si es posible pishing y tambien analiza los archivos y url por si tienen virus, esto usando la api de virua total
